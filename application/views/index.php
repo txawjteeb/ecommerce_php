@@ -84,7 +84,6 @@
 			        <div class="carousel-inner">
 			            <a href="/main/product_view/5"><div class="active item">
 			            	<img src="http://ecx.images-amazon.com/images/I/71dSeRs6eQL._SL1005_.jpg" style="height:370px; margin-left:150px;">
-			                <h2>Slide 1</h2>
 			                <div class="carousel-caption">
 			                  <h3>Nong Shim Instant Ramen on sale!</h3>
 			                  <p>A Favorite in Korea! Spicy and delicious!</p>
@@ -92,7 +91,6 @@
 			            </div>
 			            <a href="/main/product_view/23"><div class="item">
 			                <img src="http://ecx.images-amazon.com/images/I/41bYnC1I8RL.jpg" style="height:370px; margin-left:140px;">
-			                <h2>Slide 2</h2>
 			                <div class="carousel-caption">
 			                  <h3>Bison Steak Sampler</h3>
 			                  <p>Next time you have a craving for beef, try bison instead. Extra lean and with all the goodness</p>
@@ -100,7 +98,6 @@
 			            </div>
 			            <a href="/main/product_view/3"><div class="item">
 			                <img src="http://ecx.images-amazon.com/images/I/413DFETWRRL.jpg" style="height:370px; margin-left:150px;">
-			                <h2>Slide 3</h2>
 			                <div class="carousel-caption">
 			                  <h3>Eat more Nori Maki Arare</h3>
 			                  <p>A classic snack Japanese snack, you never had anything like this before!</p>
